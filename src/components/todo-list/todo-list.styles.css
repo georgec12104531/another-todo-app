@@ -1,0 +1,23 @@
+.todo-row {
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 4px 0 4px 0;
+}
+
+.sub-row {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+
+.delete {
+    cursor: pointer;
+}
+
+.checkbox {
+    height: 16px;
+    width: 26px;
+    cursor: pointer;
+}
